@@ -21,6 +21,7 @@ namespace RecipieManager
     public partial class EnterIngredient : Window
     {
 
+        //variable decleration
         public string ingName, UOM, foodGrp;
         public double quantity, calories;
 
@@ -31,15 +32,17 @@ namespace RecipieManager
             InitializeComponent();
         }
 
+        //Lists Decleration
         List<string> ingList = new List<string>();
         List<string> foodGrpList = new List<string>();
         List<string> UOMList = new List<string>();
         List<double> qList = new List<double>();
         List<double> calList = new List<double>();
 
-        private void btnClick(object sender, RoutedEventArgs e)
+        private void btnClick(object sender, RoutedEventArgs e) // when the button is clicked it will add the individaul items into their respective lists
         {
 
+            
             ingName = nameField.Text.Trim();
             UOM = UOMField.Text.Trim();
             foodGrp = foodgrpField.Text.Trim();
@@ -56,7 +59,7 @@ namespace RecipieManager
 
         }
 
-        public void addIntoRecLists()
+        public void addIntoRecLists()// adds the lists into the lists in the Recipe class
         {
 
             rec.ingredientName.Add(ingList);
