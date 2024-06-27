@@ -17,6 +17,7 @@ namespace RecipieManager
     public partial class MainWindow : Window
     {
 
+        //variable declaration
         private Recipes rec;
         Boolean exit = false;
 
@@ -25,7 +26,8 @@ namespace RecipieManager
             InitializeComponent();
         }
 
-        private void CreateClick(object sender, RoutedEventArgs e)
+        
+        private void CreateClick(object sender, RoutedEventArgs e)//Initiates the the process to create a new recipe
         {
 
             Create create = new Create();
@@ -35,7 +37,7 @@ namespace RecipieManager
 
         }
 
-        private void DisplayClick(object sender, RoutedEventArgs e)
+        private void DisplayClick(object sender, RoutedEventArgs e)// will intitiale the process of displaying a selected recipe
         {
 
             DisplayRecipesMenu display = new DisplayRecipesMenu();
@@ -44,21 +46,21 @@ namespace RecipieManager
 
         }
 
-        private void ScaleClick(object sender, RoutedEventArgs e)
+        private void ScaleClick(object sender, RoutedEventArgs e)//will initiate the process for scaling a recipe
+        {
+
+            
+    
+        }
+
+        private void PieClick(object sender, RoutedEventArgs e)//will initiate the process of creating a food group pie chart
         {
 
 
 
         }
 
-        private void PieClick(object sender, RoutedEventArgs e)
-        {
-
-
-
-        }
-
-        private void ExitClick(object sender, RoutedEventArgs e)
+        private void ExitClick(object sender, RoutedEventArgs e)//Exits the application
         {
 
             this.Close();
