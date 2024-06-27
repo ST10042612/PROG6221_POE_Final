@@ -20,7 +20,7 @@ namespace RecipieManager
     /// </summary>
     public partial class EnterStep : Window
     {
-
+        //variable decleration
         public string step;
 
         List<string> steps = new List<string>();
@@ -32,7 +32,7 @@ namespace RecipieManager
             InitializeComponent();
         }
 
-        private void btnClick(object sender, RoutedEventArgs e)
+        private void btnClick(object sender, RoutedEventArgs e)// will allow the user to input details about ingredients and steps, the information they enter will then be recorded into lists
         {
 
             try
