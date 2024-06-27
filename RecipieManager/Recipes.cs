@@ -8,6 +8,8 @@ namespace RecipieManager
 {
     class Recipes
     {
+
+        //List decleration
         public List<string> recipeName = new List<string>();
 
         public List<List<string>> ingredientName = new List<List<string>>();
