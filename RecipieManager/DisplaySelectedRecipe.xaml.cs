@@ -19,7 +19,7 @@ namespace RecipieManager
     /// </summary>
     public partial class DisplaySelectedRecipe : Window
     {
-
+        //variable decleration
         int recipeIndex;
 
         Recipes rec = new Recipes();
@@ -30,6 +30,7 @@ namespace RecipieManager
 
         }
 
+        //loads items into the list box
         private void Ingredients_Load(object sender, EventArgs e) //https://www.geeksforgeeks.org/how-to-add-items-in-listbox-in-c-sharp/
         {
 
