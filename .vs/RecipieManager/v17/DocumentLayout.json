@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|c:\\users\\mjpae\\source\\repos\\recipiemanager\\recipiemanager\\showpiechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|solutionrelative:recipiemanager\\showpiechart.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|c:\\users\\mjpae\\source\\repos\\recipiemanager\\recipiemanager\\piechartquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|solutionrelative:recipiemanager\\piechartquestion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|c:\\users\\mjpae\\source\\repos\\recipiemanager\\recipiemanager\\scalemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{100CA345-8B25-426F-AD33-654BB3A044FC}|RecipieManager\\RecipieManager.csproj|solutionrelative:recipiemanager\\scalemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowPieChart.xaml",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\ShowPieChart.xaml",
+              "RelativeDocumentMoniker": "RecipieManager\\ShowPieChart.xaml",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\ShowPieChart.xaml",
+              "RelativeToolTip": "RecipieManager\\ShowPieChart.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T19:43:03.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PieChartQuestion.xaml",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\PieChartQuestion.xaml",
+              "RelativeDocumentMoniker": "RecipieManager\\PieChartQuestion.xaml",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\PieChartQuestion.xaml",
+              "RelativeToolTip": "RecipieManager\\PieChartQuestion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T19:33:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaleMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\ScaleMenu.xaml",
+              "RelativeDocumentMoniker": "RecipieManager\\ScaleMenu.xaml",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\RecipieManager\\RecipieManager\\ScaleMenu.xaml",
+              "RelativeToolTip": "RecipieManager\\ScaleMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T19:03:23.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
