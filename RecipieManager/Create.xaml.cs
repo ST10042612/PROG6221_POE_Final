@@ -19,7 +19,7 @@ namespace RecipieManager
     /// </summary>
     public partial class Create : Window
     {
-
+        //variable declaration
         public string name;
         public int steps, ingredients;
 
@@ -32,7 +32,7 @@ namespace RecipieManager
 
         public void btnClick(object sender, RoutedEventArgs e)
         {
-
+                //takes in user input from the text boxes and assigns it toa variable
                 name = nameField.Text.Trim();
                 steps = Int16.Parse(stepsField.Text.Trim()); //string to int https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/types/how-to-convert-a-string-to-a-number
                 ingredients = Int16.Parse(ingField.Text.Trim());
@@ -43,8 +43,8 @@ namespace RecipieManager
 
                 EnterIngredient ei = new EnterIngredient();
                 EnterStep step = new EnterStep();
-
-                while (ingredients != 0)
+            
+                while (ingredients != 0)//will loop until it has gathered all the ingredients
                 {
 
                     ei.ShowDialog();
@@ -55,7 +55,7 @@ namespace RecipieManager
 
                 ei.addIntoRecLists();
 
-                while (steps != 0)
+                while (steps != 0) //will loop until it has gathered all the steps
                 {
 
                     step.ShowDialog();
@@ -81,16 +81,6 @@ namespace RecipieManager
         {
 
             return steps;
-
-        }
-
-        private void stepsField_TextChanged(object sender, TextChangedEventArgs e)
-        {
-
-        }
-
-        private void ingredientsField_TextChanged(object sender, TextChangedEventArgs e)
-        {
 
         }
 
