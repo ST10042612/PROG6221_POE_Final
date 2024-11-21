@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|c:\\users\\mjpae\\source\\repos\\abc_retail_webapp\\abc_retail_webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F3D3BD1-37DF-45C1-A1B6-1AA6E5B5B2D2}|ABC_Retail_Webapp\\ABC_Retail_Webapp.csproj|solutionrelative:abc_retail_webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:31:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:31:54.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:29:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\_Imports.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:29:08.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\Routes.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:28:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\Components\\App.razor",
+              "RelativeToolTip": "ABC_Retail_Webapp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:28:45.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "ABC_Retail_Webapp\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Mjpae\\source\\repos\\ABC_Retail_Webapp\\ABC_Retail_Webapp\\wwwroot\\app.css",
+              "RelativeToolTip": "ABC_Retail_Webapp\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-30T10:27:52.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
